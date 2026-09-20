@@ -1,0 +1,6 @@
+{
+  "name": "Edge Digital Twin Engine",
+  "description": "Edge-Native Self-Evolving Digital Twins for industrial machinery with physics telemetry simulation, real-time model evolution, and predictive AI diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
